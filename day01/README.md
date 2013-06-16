@@ -7,8 +7,8 @@ and its methodology. List of things to say about:
  + We won't look at a programming language as at medium to write down algos.
  + We will concentrate on technology
  + We will use real-world code for handouts
- + Students will solve industrial problems during practice by 
-   implementing key features missing in a piece of code that solves real-world problems
+ + Students will solve industrial problems during practice (by 
+   implementing key features missing in a piece of code that solves real-world problems)
  + We will use toolchain proven to be at least very descent by the industry.
 
 Jonn talks about "The Dark Side" sub-project, which is heavily related to the 
@@ -17,13 +17,13 @@ about the ideas behind declarative programming and highly concurrent systems
 in very simple language and without drastic paradigm shifts. List of things to say about:
 
  + First steps in the world of declarative computing which is a (finally) growing approach 
-   that is essential for building systems of high complexity that run concurrently.
+   that is essential for building systems of high complexity that run concurrently
  + Arguably more advanced topic. Will require at least knowledge equal to the knowledge
-   students will get after finishing the corresponding day of our project.
- + Covering many programming languages.
+   students will get after finishing the corresponding day of our project
+ + Covering many programming languages
  + Live demos/coding sessions
  + Optional assignments
- + Erlang
+ + Erlang.
 
 День Прибытия (ru)
 ===
