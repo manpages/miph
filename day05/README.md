@@ -1,4 +1,4 @@
-Networking I
+Networking I (en)
 ===
 
 Theory
@@ -29,3 +29,8 @@ Lecture plan:
  + How to accept sockets in this setup (reading source)?
  + How to send data over sockets in this setup (reading source)?
  + Okay, let's write it (live demo or handout [depending on amt of time]).
+
+Сеть I (ru)
+===
+
+TODO
