@@ -1,17 +1,17 @@
-Von Neumann architecture and ASM Flow Control (en)
+Von Neumann architecture and ASM (en)
 ===
 
 Theory
 ---
 
 Here we talk about how (most of modern) computers work, covering Von Neumann architecture
-and how does it realate to ASM execution flow. @avelenko
+and how does it realate to ASM. @avelenko
 
 Practice
 ---
 
- + Git @manpages
- + ASM @avelenko
+ + Git basics @manpages
+ + ASM basics @avelenko
 
 Dark Side
 ---
@@ -29,7 +29,7 @@ Lecture plan:
  + Why it fails (Shared memory, low level of abstractions, low expressiveness)
  + How it can be solved (Welcome to the world of declarative programming)
 
-Архитектура Фон Неймана и контроль порядка вызовов в ассамблере (ru)
+Архитектура Фон Неймана и ассамблер (ru)
 ===
 
 TODO
