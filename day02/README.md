@@ -16,9 +16,11 @@ Practice
 Dark Side
 ---
 
-"You don't have to live like this". 
+"You don't have to code like this". 
 
 ![Von Neumann's architecture isn't about software][fortran77wat]
+
+*(Image is taken from the beginners guide to Fortran77)*
 
 Von Neumann's architecture isn't about software.
 Lecture plan: 
