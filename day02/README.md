@@ -17,7 +17,9 @@ Dark Side
 ---
 
 "You don't have to live like this". 
+
 ![Von Neumann's architecture isn't about software][fortran77wat]
+
 Von Neumann's architecture isn't about software.
 Lecture plan: 
 
