@@ -5,11 +5,40 @@ Theory
 ---
 
  + C basics @avelenko
- + ASM branching, loops, jumps @avelenko
- + C branching, loops, functions @avelenko
+ ++ Переменные и типы данных (char, short, long, long long, int, float, double)
+ ++ базовые операции (&, |, ~, &&, ||, !, <<, >>, +, -, ++, --, +=, -=). Шутка про китайский язык и иероглифы
+ ++ Ветвление
+	+++ синтаксис
+	+++ асм
+ ++ Циклы
+	+++ Как бегать по массиву
+	+++ Запомните паттерн, пользуйтесь им. while - везде, где есть циклы. for - там где С.
+	+++ Синтаксис
+	+++ АСМ
+ ++ Пойнтеры
+	+++ Адресы в памяти
+	+++ Массивы
+	+++ Pointer arithmetic
+	+++ Cycles revisited
+ ++ Функции
+	+++ Сигнатура функции
+	+++ асм
+	++++ СТЭК
+ 	+++ Кажая экономия на предыдущем этапе приводит к тройным затратам на последующем
+ ++ Читаемость - приоритет
+ ++ function pointers
+ ++ void *, casting
 
-Practice
+ + OS basics @avelenko
+ ++ Больше чем 1 программа - что делать?
+ ++ Файловая система
+ ++ Драйверы
+ ++ Read, Write, buffer
+
+
+ Practice
 --
+
 
  + Work with filesystem in C @avelenko
  + Work with filesystem in Ruby @avelenko
