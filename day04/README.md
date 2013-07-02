@@ -22,6 +22,9 @@ Here we look at closures in different programming languages, not necessarily fun
 The aim of this lecture is to show that you can use declarative approaches within imperative
 frameworks.
 
+Lecture plan:
+
+ + Recap: what are closures?
  + Closures in Erlang
  + Closures in Elixir
  + Closures in Scala
