@@ -78,6 +78,8 @@ Theory
 
 Dark Side
 ---
+EITHER 
+
 
 "Tail Recursion — the declarative alternative to loops".
 Lecture plan:
@@ -86,6 +88,16 @@ Lecture plan:
  + Immutability and loops
  + Transforming a loop into recursive calls
  + Tail recursion optimization
+
+OR
+
+"The philosophy of recursion"
+Lecture plan:
+
+ + Definition of recursion
+ + Recursive sequences
+ + Methodology of recursion (What can we learn from recursive sequences as programmers?)
+ + (if we have nuff time) Tail recursion
 
 Контроль потока выполнения на ассамблерах и языке C (ru)
 ===
