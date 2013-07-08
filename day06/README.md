@@ -5,11 +5,15 @@ Theory
 ---
 
  + Threading @avelenko
+ 
  1) Трэды и Процессы, в чём разница?
+ 
  2) Алгоритмы планирования (scheduling). Сон (sleep). Синхронизация (mutex & semafor)
+ 
  3) PThreads as we know and love them
   
  + The case for thread-safety @manpages
+ 
  + Socket pools in C @avelenko
 
 Practice
