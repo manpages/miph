@@ -11,7 +11,7 @@
  * day03/task/hint.txt (в таком порядке).
  */
 
-int main(){
-	printf("Hello, World\n");
+int main() {
+  printf("Hello, World\n");
   return 0;
 }
