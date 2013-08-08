@@ -12,10 +12,12 @@
  * day03/task/hint.txt (в таком порядке).
  
  * This is program that prints “Hello, World”
+ * and returns 0 — the code for successful execution.
  *
  * Task:
- * and returns 5 — I/O error code if printf didn't
- * work correctly. For hints see Google and 
+ * It should return 5 — I/O error code if 
+ * printf didn't work correctly. 
+ * For hints see Google and 
  * day03/task/hint.txt (in that order).
  */
 
